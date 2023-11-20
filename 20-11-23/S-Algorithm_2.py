@@ -18,5 +18,4 @@ def train(con,tar):
         else:
           pass
   return specific_h
-
 print(train(concept,target))
